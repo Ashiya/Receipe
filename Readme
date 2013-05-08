@@ -1,3 +1,10 @@
 Hi Every one,
-This provide you the facility of adding and seeing a receipe into your databse .
+This is based on PHP.
+ 1)Index.php file...provides you the facility of Adding a recipe details like Recipe title, recipe name ,recipe ingridents and procedure  into your database .
+2) Seereceipe.php file ...provide that you can see all the recips those are stored in database.
+3)Likereceipe.php ...... you can  like a recipe and it will tell you how many peoples also liked this receipe
+4) deletereceipe...you can delete a receipe also there is one Share option also u can share it through social networking site (fb)
+5) showdetails.php ...you can see a specific receipe.
+
+
 
