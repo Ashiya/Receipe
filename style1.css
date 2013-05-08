@@ -1,0 +1,29 @@
+body
+{
+background: url("images/images.jpeg");
+
+}
+#demo
+{
+
+background-color:#FFEBCD;
+margin: 20px auto 0 auto;
+height:700px;
+width:500px;
+border:5px solid black;
+}
+
+.colors
+{
+
+background-color:green;
+color:black;
+font-style:bold;
+font:verdana
+}
+ #demo form label
+
+{ color:#800000;
+margin: 10px 10px 0 50px;
+}
+
